@@ -11,6 +11,7 @@ OPERATIONS_5 = ('and', 'because', 'but', 'or', 'if', 'though', 'while', 'how', '
 OPERATIONS_6 = ('again', 'ever', 'far', 'forward', 'here', 'near', 'now', 'out', 'still', 'then', 'there', 'together', 'well')
 OPERATIONS_7 = ('almost', 'enough', 'even', 'not', 'only', 'quite', 'so', 'very', 'tomorrow', 'yesterday')
 OPERATIONS_8 = ('north', 'south', 'east', 'west', 'please', 'yes')
+OPERATIONS = (OPERATIONS_1, OPERATIONS_2, OPERATIONS_3, OPERATIONS_4, OPERATIONS_5, OPERATIONS_6, OPERATIONS_7, OPERATIONS_8)
 
 # Lists
 Operations_1 = ['come', 'get', 'give', 'go', 'keep', 'let', 'make', 'put', 'seem', 'take', 'be', 'do', 'have', 'say', 'see', 'send', 'may', 'will']
@@ -21,3 +22,7 @@ Operations_5 = ['and', 'because', 'but', 'or', 'if', 'though', 'while', 'how', '
 Operations_6 = ['again', 'ever', 'far', 'forward', 'here', 'near', 'now', 'out', 'still', 'then', 'there', 'together', 'well']
 Operations_7 = ['almost', 'enough', 'even', 'not', 'only', 'quite', 'so', 'very', 'tomorrow', 'yesterday']
 Operations_8 = ['north', 'south', 'east', 'west', 'please', 'yes']
+Operations = [Operations_1, Operations_2, Operations_3, Operations_4, Operations_5, Operations_6, Operations_7, Operations_8]
+
+print(OPERATIONS)
+print(Operations)
