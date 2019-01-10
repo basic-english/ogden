@@ -26,5 +26,7 @@ Operations = [Operations_1, Operations_2, Operations_3, Operations_4, Operations
 
 print(OPERATIONS)
 print(OPERATIONS[2])
+print(OPERATIONS[2][2])
 print(Operations)
 print(Operations[2])
+print(Operations[2][1])
