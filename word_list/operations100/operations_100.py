@@ -24,9 +24,11 @@ Operations_7 = ['almost', 'enough', 'even', 'not', 'only', 'quite', 'so', 'very'
 Operations_8 = ['north', 'south', 'east', 'west', 'please', 'yes']
 Operations = [Operations_1, Operations_2, Operations_3, Operations_4, Operations_5, Operations_6, Operations_7, Operations_8]
 
+"""
 print(OPERATIONS)
 print(OPERATIONS[2])
 print(OPERATIONS[2][2])
 print(Operations)
 print(Operations[2])
 print(Operations[2][1])
+"""
