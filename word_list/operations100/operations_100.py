@@ -1,5 +1,5 @@
 """
-Writing Ogden's "Operations" as a list into a .json file
+Writing Ogden's "Operations" as a tuple or list
 """
 
 # Tuples
