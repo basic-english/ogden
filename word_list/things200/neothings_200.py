@@ -5,9 +5,14 @@ Things 200 words
 # List of 200 picturable things
 
 Things_200 = ['angle', 'ant', 'apple', 'arch', 'arm', 'army', 'baby', 'bag',
-              'ball', 'band', 'basin', 'basket', 'bath', 'bed', 'bee', 'bell',
-              'berry', 'bird', 'blade', 'board', 'boat', 'bone', 'book',
-              'boot', 'bottle', 'box', 'boy', 'brain', 'brake', 'branch',
+              'ball', 'band',
+              'basin', # geographical?
+              'basket', 'bath', 'bed', 'bee', 'bell',
+              'berry', 'bird',
+              'blade', # almost obsolete
+              'board', 'boat', 'bone', 'book',
+              'boot', # not exactly obsolete, but...
+              'bottle', 'box', 'boy', 'brain', 'brake', 'branch',
               'brick', 'bridge', 'brush', 'bucket', 'bulb', 'button', 'cake',
               'camera', 'card', 'cart', 'carriage', 'cat', 'chain', 'cheese',
               'chest', 'chin', 'church', 'circle', 'clock', 'cloud', 'coat',
@@ -16,7 +21,9 @@ Things_200 = ['angle', 'ant', 'apple', 'arch', 'arm', 'army', 'baby', 'bag',
               'engine', 'eye', 'face', 'farm', 'feather', 'finger', 'fish',
               'flag', 'floor', 'fly', 'foot', 'fork', 'fowl', 'frame', 'garden',
               'girl', 'glove', 'goat', 'gun', 'hair', 'hammer', 'hand', 'hat',
-              'head', 'heart', 'hook', 'horn', 'horse', 'hospital', 'house',
+              'head', 'heart', 'hook', 'horn',
+              'horse', # clearly obsolete
+              'hospital', 'house',
               'island', 'jewel', 'kettle', 'key', 'knee', 'knife', 'knot',
               'leaf', 'leg', 'library', 'line', 'lip', 'lock', 'map', 'match',
               'monkey', 'moon', 'mouth', 'muscle', 'nail', 'neck', 'needle',
@@ -30,7 +37,8 @@ Things_200 = ['angle', 'ant', 'apple', 'arch', 'arm', 'army', 'baby', 'bag',
               'star', 'station', 'stem', 'stick', 'stocking', 'stomach', 'store',
               'street', 'sun', 'table', 'tail', 'thread', 'throat', 'thumb',
               'ticket', 'toe', 'tongue', 'tooth', 'town', 'train', 'tray',
-              'tree', 'trousers', 'umbrella', 'wall', 'watch', 'wheel', 'whip',
+              'tree', 'trousers', 'umbrella', 'wall', 'watch', 'wheel',
+              'whip', # clearly _not_
               'whistle', 'window', 'wing', 'wire', 'worm']
 
 """
