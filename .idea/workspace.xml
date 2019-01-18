@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7333426d-729b-46f5-8750-2dcc08751961" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/word_list/verbs16/verbs_16.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/word_list/operations100/operations_100.py" beforeDir="false" afterPath="$PROJECT_DIR$/word_list/operations100/operations_100.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/word_list/verbs16/verbs_16.py" beforeDir="false" afterPath="$PROJECT_DIR$/word_list/verbs16/verbs_16.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,17 +26,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/word_list/verbs16/verbs_16.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="14" column="3" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/word_list/operations100/operations_100.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="422">
-              <caret line="27" column="44" selection-start-line="24" selection-end-line="29" selection-end-column="55" />
+            <state relative-caret-position="198">
+              <caret line="9" column="34" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -77,7 +69,6 @@
         <option value="$PROJECT_DIR$/word_list/operations/operations.py" />
         <option value="$PROJECT_DIR$/word_list/things400/things.py" />
         <option value="$PROJECT_DIR$/word_list/qualities100/qualities_50.py" />
-        <option value="$PROJECT_DIR$/word_list/operations100/operations_100.py" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/word_list/qualities50/qualities_50.py" />
         <option value="$PROJECT_DIR$/word_list/things200/things_200.py" />
@@ -87,6 +78,7 @@
         <option value="$PROJECT_DIR$/word_list/things400/neothings_400.py" />
         <option value="$PROJECT_DIR$/word_list/things200/neothings_200.py" />
         <option value="$PROJECT_DIR$/word_list/Explanation.py" />
+        <option value="$PROJECT_DIR$/word_list/operations100/operations_100.py" />
         <option value="$PROJECT_DIR$/word_list/verbs16/verbs_16.py" />
       </list>
     </option>
@@ -142,6 +134,12 @@
               <item name="ogden" type="462c0819:PsiDirectoryNode" />
               <item name="word_list" type="462c0819:PsiDirectoryNode" />
               <item name="things400" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ogden" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ogden" type="462c0819:PsiDirectoryNode" />
+              <item name="word_list" type="462c0819:PsiDirectoryNode" />
+              <item name="verbs16" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -379,19 +377,26 @@
       <option name="project" value="LOCAL" />
       <updated>1547850112509</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="correction">
+      <created>1547851651483</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1547851651483</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-4" width="1440" height="904" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2496464" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2496464" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32984293" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32984293" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -472,15 +477,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/word_list/operations100/operations_100.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="422">
-          <caret line="27" column="44" selection-start-line="24" selection-end-line="29" selection-end-column="55" />
+        <state relative-caret-position="-308">
+          <caret line="7" column="50" selection-start-line="7" selection-start-column="50" selection-end-line="7" selection-end-column="50" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/word_list/verbs16/verbs_16.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="14" column="3" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
+        <state relative-caret-position="198">
+          <caret line="9" column="34" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
         </state>
       </provider>
     </entry>

@@ -5,7 +5,7 @@ Writing Ogden's "Operations" as a tuple or list
 # Tuples
 OPERATIONS_1 = ('come', 'get', 'give', 'go', 'keep', 'let', 'make', 'put',
                 'seem', 'take', 'be', 'do', 'have', 'say', 'see', 'send',
-                'may', 'will')
+                'may', 'will')  # also the 'verbs'
 OPERATIONS_2 = ('about', 'across', 'after', 'against', 'among', 'at', 'before',
                 'between', 'by', 'down', 'from', 'in', 'off', 'on', 'over',
                 'through', 'to', 'under', 'up', 'with')
