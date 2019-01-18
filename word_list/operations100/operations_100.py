@@ -19,8 +19,9 @@ OPERATIONS_6 = ('again', 'ever', 'far', 'forward', 'here', 'near', 'now', 'out',
 OPERATIONS_7 = ('almost', 'enough', 'even', 'not', 'only', 'quite', 'so', 'very',
                 'tomorrow', 'yesterday')
 OPERATIONS_8 = ('north', 'south', 'east', 'west', 'please', 'yes')
-OPERATIONS = (OPERATIONS_1, OPERATIONS_2, OPERATIONS_3, OPERATIONS_4, OPERATIONS_5,
-              OPERATIONS_6, OPERATIONS_7, OPERATIONS_8)
+
+OPERATIONS = OPERATIONS_1 + OPERATIONS_2 + OPERATIONS_3 + OPERATIONS_4 + OPERATIONS_5\
+             + OPERATIONS_6 + OPERATIONS_7 + OPERATIONS_8
 
 # Lists
 Operations_1 = ['come', 'get', 'give', 'go', 'keep', 'let', 'make', 'put', 'seem',
@@ -38,14 +39,6 @@ Operations_6 = ['again', 'ever', 'far', 'forward', 'here', 'near', 'now', 'out',
 Operations_7 = ['almost', 'enough', 'even', 'not', 'only', 'quite', 'so', 'very',
                 'tomorrow', 'yesterday']
 Operations_8 = ['north', 'south', 'east', 'west', 'please', 'yes']
-Operations = [Operations_1, Operations_2, Operations_3, Operations_4, Operations_5,
-              Operations_6, Operations_7, Operations_8]
+Operations = Operations_1 + Operations_2 + Operations_3 + Operations_4 + Operations_5\
+             + Operations_6 + Operations_7 + Operations_8
 
-"""
-print(OPERATIONS)
-print(OPERATIONS[2])
-print(OPERATIONS[2][2])
-print(Operations)
-print(Operations[2])
-print(Operations[2][1])
-"""
